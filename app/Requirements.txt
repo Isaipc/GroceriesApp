@@ -1,0 +1,11 @@
+
+
+
+Requirements for price list app:
+
+*Price List
+*Barcode reader from device camera
+*Share and upload the price list on the cloud
+*and more ...
+
+
